@@ -1,0 +1,35 @@
+HTML stands for HyperText Markup Language.
+It is used on the frontend and gives the structure to the webpage which
+you can style using CSS and make interactive using JavaScript.
+
+WIKIPEDIA definition of HyperText:
+Hypertext is text displayed on a computer display or other electronic devices
+with references (hyperlinks) to other text that the reader can immediately access.
+Hypertext documents are interconnected by hyperlinks, which are typically
+activated by a mouse click, keypress set, or screen touch.
+Apart from text, the term "hypertext" is also sometimes used to describe
+tables, images, and other presentational content formats with integrated hyperlinks.
+Hypertext is one of the key underlying concepts of the World Wide Web,
+where Web pages are often written in the Hypertext Markup Language (HTML).
+As implemented on the Web, hypertext enables the easy-to-use publication
+of information over the Internet.
+
+
+What is HTML element?
+An HTML element is defined by a start Tag, Some Content and an end tag.
+<tagname> Content goes here... </tagname>
+e.g. <h1>My First Heading</h1>
+     <p>My first paragraph.</p>
+
+Note: Some HTML elements have no content (like the <br> element).
+These elements are called empty elements. Empty elements do not have an end tag!
+
+Web Browsers
+The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to
+read HTML documents and display them correctly.
+
+A browser does not display the HTML tags, but uses them to determine how to display
+the document
+Note: The content inside the <body> section will be displayed in a browser.
+The content inside the <title> element will be shown in the browser's title bar
+or in the page's tab.
